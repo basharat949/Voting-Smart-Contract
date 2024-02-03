@@ -1,0 +1,28 @@
+{
+  "name": "voting-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basharat949/Voting-Smart-Contract.git"
+  },
+  "author": "Basharat Ameen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basharat949/Voting-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/basharat949/Voting-Smart-Contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "dotenv": "^16.0.3",
+    "web3": "^1.8.2"
+  }
+}
